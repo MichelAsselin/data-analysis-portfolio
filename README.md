@@ -1,7 +1,7 @@
 # Superstore: Profitability Analysis
 **Author**: Michel Asselin
 
-**Tools**: Python 3.12.12
+**Tools**: Python (3.12.12)
 
 **Modules**: pandas (2.2.2), matplotlib (3.10.0), seaborn (0.13.2), numpy (2.0.2). These modules were used for data cleaning, visualization, and statistical analysis.
 
