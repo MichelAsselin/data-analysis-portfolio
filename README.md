@@ -75,7 +75,7 @@ For each question, visuals created with matplotlib and seaborn are provided, eac
 <img width="1180" height="490" alt="image" src="https://github.com/user-attachments/assets/be5b0560-e799-45e6-b1bf-04061c4b13c2" />
 
 ### 3. Business Insights & Recommendations
-1. Discounts are the primary cause of profit loss. Limiting discounts to 25%-30% and implementing category-specific discount limits could reduce profit losses.
+1. Discounts are primarily associated with profit loss. Limiting discounts to 25%-30% and implementing category-specific discount limits could reduce profit losses.
 2. Furniture has high sales but poor profitability due to steep discounts. Reassess pricing and product strategy, and focus on Furniture items that sell at a loss  to improve profitability.
 3. Reinforce strategies for successful and highly profitable sub-categories, such as Copiers, Phones, Accessories, and Papers.
 4. Central and South regions lag in profit despite comparable sales to the West and East regions. Use the latter as benchmarks when developing operational improvements.
