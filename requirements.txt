@@ -2,7 +2,7 @@ pandas==2.2.2
 numpy==2.0.2
 matplotlib==3.10.0
 seaborn==0.13.2
-IPython==7.34.0
+iPython==7.34.0
 jupyter_client==7.4.9
 jupyter_core==5.9.1
 jupyterlab==4.4.10
