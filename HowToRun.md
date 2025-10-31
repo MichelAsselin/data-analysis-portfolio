@@ -1,4 +1,3 @@
-```markdown
 # How to run — Superstore_Profitability_Analysis
 
 Quick summary
@@ -34,20 +33,3 @@ pip install -r requirements.txt
 - Colab: use the "Open in Colab" link at the top of the notebook. In Colab, upload the CSV (left pane -> Files -> Upload) or mount Drive and update the csv_path.
 
 6) Run the notebook
-- Kernel → Restart & Run All to ensure it runs top-to-bottom with no hidden state.
-
-7) Optional: render to HTML for sharing
-```bash
-jupyter nbconvert --to html Superstore_Profitability_Analysis.ipynb
-```
-
-8) Clean outputs before committing (recommended)
-- Clear outputs in-place:
-```bash
-jupyter nbconvert --clear-output --inplace Superstore_Profitability_Analysis.ipynb
-```
-- Or install/use nbstripout so outputs are removed automatically on commit:
-```bash
-pip install nbstripout
-nbstripout --install
-```
