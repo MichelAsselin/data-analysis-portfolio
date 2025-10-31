@@ -23,7 +23,7 @@ This project was developed in Python (Google Colab environment). The notebook ca
 **Modules**: pandas (2.2.2), matplotlib (3.10.0), seaborn (0.13.2), numpy (2.0.2). These modules were used for data cleaning, visualization, and statistical analysis.
 
 ## How to Run
-1. Download `Sample - Superstore.csv` from Kaggle and place it in the repo root or `data/`. (Do not commit the CSV if redistribution is restricted.)
+1. Download `Sample - Superstore.csv` from Kaggle and place it in the repo root or `data/`.
 2. Install dependencies:
    pip install -r requirements.txt
 3. Open `Superstore_Profitability_Analysis.ipynb` and run the notebook.
