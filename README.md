@@ -17,7 +17,7 @@ This project was developed in Python (Google Colab environment). The notebook ca
 
 **Source**: Martin, Michael (October 27, 2022). Sample - Superstore Sales (Excel).xls. Tableau from Salesforce. Retrieved from: https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
 
-## Tehnology
+## Technology
 **Tools**: Python (3.12.12)
 
 **Modules**: pandas (2.2.2), matplotlib (3.10.0), seaborn (0.13.2), numpy (2.0.2). These modules were used for data cleaning, visualization, and statistical analysis.
